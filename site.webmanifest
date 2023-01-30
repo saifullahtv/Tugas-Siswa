@@ -3,14 +3,13 @@
     "short_name": "TugaSiswa",
     "icons": [
         {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz_oh2MRlX6F1lYJTmK6UaRRKqiavHNbWxNwlIyVjNrPq-5iZy1_qvmK-_AfQdRdXi0W4QQLgVqGTyZWooFwX3SEeU2MnLfhWBTEvEBHgCXrxcDhb4eGxH_30C0xIhzcIMqgA3ghqWeHXe2-eszVRT1_CLwAhdGQTtZ0wxelA4EDMoJPE7ijHypt51iQ/s1600/android-chrome-192x192.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy3qmqP7roGZ6RDWVP7VTY5EK6NO30PTfySlxsWuKs26458nRei56P5MzK2qkxvjVPH3IH7u4_3ntgAXzXTHTqvT7Vv9BdfqivjjPJY1-UiCmVBJUvlDDMrdG28ZljzF3cs-94Qh1LS_JQ2QfjppHraEvN_oHv9YMnDTjEmE447zKNg_DZoPq2G2joMA/s1600/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlezOBNWZWB4ZY1obsYE9lSXtMOGPDOBvQfTLzC0o7dS2SrNdX7Kbs5_2NcAAT_Talv8LLSlf91xjZILkxLSLOaBqMMOqsaq1bL1te3c1R_af2_GuR3rSgiqlPwUiuMaM4VMX8RO9HzgETpHLA9awMZDMRLpEge_h0nPfHAdtXFk5w_0ura5ib9Aw2dA/s1600/android-chrome-512x512.png",
-            "sizes": "512x512",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMil1cQnPF8CKqQjJ16nX6RlqmIP_RTBHimeWN_vB0YhXyyliwdoZwbUaG07p9my9A008MTSz0eVvv9_dhMvMd5-TH8mM4tfhHAi7Apia5n5CHN4GNAjZ6bqbobXy5Yc8egPKSktS3mMz-Qr2cxoiUBabQB4WZRuGJ6KxA_4i-NYpc-WBgpANdCUrAXA/s1600/android-chrome-512x512.png",
             "type": "image/png",
             "purpose": "any maskable"
         }
